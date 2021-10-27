@@ -1,0 +1,42 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File
+       "..\..\users\teodora\onedrive\desktop\users\teodora\onedrive\desktop\pomenea_l1_pr2..dsn"
+      (Type "Schematic Design")
+      (DisplayName
+         "..\..\users\teodora\onedrive\desktop\users\teodora\onedrive\desktop\pomenea_l1_pr2..dsn"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "..\..\users\teodora\onedrive\desktop\users\teodora\onedrive\desktop\pomenea_l1_pr2..dsn")
+      (Path "Design Resources"
+         "..\..\users\teodora\onedrive\desktop\users\teodora\onedrive\desktop\pomenea_l1_pr2..dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "..\..\users\teodora\onedrive\desktop\users\teodora\onedrive\desktop\pomenea_l1_pr2..dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 283"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 36 1366 166 488")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path "C:\ORCAD\ORCAD_16.6_LITE\POMENEA_L1_PR2..DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
